@@ -10,5 +10,5 @@
 
 _Mainly because GalaxyArch is a lazy developer_
 
-_**"Ooh, self-burn! Those are rare!**_
+_**"Ooh, self-burn! Those are rare!"**_
 **- Jake Peralta, Brooklyn nine-nine**
