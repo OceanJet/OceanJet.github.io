@@ -30,3 +30,10 @@ Join our roblox group today!
 Vessel | Notes
 -------|------
 OceanJet 8 | Our First Vessel
+
+---
+# Feedback
+
+### Maritime go crazy with the horn again? Tell us, we won't bite.
+
+[Feedback Form](feedback.html)
