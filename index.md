@@ -3,7 +3,10 @@
 
 Welcome aboard! Maligayang Pagsakay OceanJet.
 
-OceanJet is a ferry service on roblox founded by MaritimeArch.
+OceanJet is a ferry service on roblox founded by MaritimeArch on September 9th 2020.
+
+Our corporation is a wholly owned Filipino Corporation that operates High-Speed crafts, serving destinations from Visayas, and Luzon regions in the Philippines. Formerly known as Socor Shipping Line until 2001.
+
 
 ![New Route](https://OceanJet.github.io/PABLO.png)
 
@@ -37,3 +40,6 @@ OceanJet 8 | Our First Vessel
 **Maritime go crazy with the horn again?** Tell us, we won't bite.
 
 [Feedback Form](tempfeedback.md)
+
+---
+Website Developed by GalaxyArch
