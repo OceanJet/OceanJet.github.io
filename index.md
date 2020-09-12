@@ -28,11 +28,12 @@ Join our roblox group today!
 ---
 # Our Fleet
 
-**Currently** _OceanJet_ only has 1 vessel in our fleet, but more are coming.
+**Currently** _OceanJet_ only has 2 vessels in our fleet, but more are coming.
 
 Vessel | Notes
 -------|------
 OceanJet 8 | Our First Vessel
+OceanJet 888 | Our Second vessel, includes a larger capacity for business class.
 
 ---
 # Feedback
