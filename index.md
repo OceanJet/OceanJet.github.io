@@ -1,6 +1,8 @@
 
 # Welcome to OceanJet
 
+_In no way do we have any affiliations to the real OceanJet, we are purely a Roblox roleplay group._
+
 Welcome aboard! Maligayang Pagsakay OceanJet.
 
 OceanJet is a ferry service on roblox founded by MaritimeArch on September 9th 2020.
