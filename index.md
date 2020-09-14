@@ -28,7 +28,7 @@ Join our roblox group today!
 ---
 # Our Fleet
 
-**Currently** _OceanJet_ only has 2 vessels in our fleet, but more are coming.
+**Currently** _OceanJet_ has a fleet of 3.
 
 Vessel | Notes
 -------|------
