@@ -34,6 +34,7 @@ Vessel | Notes
 -------|------
 OceanJet 8 | Our First Vessel
 OceanJet 888 | Our Second vessel, includes a larger capacity for business class.
+OceanJet 1 | _A Fast vessel, it'll get you there quicker_. With only internal seating, you'll be travelling in comfort.
 
 ---
 # Feedback
