@@ -41,6 +41,13 @@ OceanJet 888 | Our Second vessel, includes a larger capacity for business class.
 OceanJet 1 | _A Fast vessel, it'll get you there quicker_. With only internal seating, you'll be travelling in comfort.
 
 ---
+# Applications
+
+**Want to be a part of the crew?**
+
+_No Worries!_ Join today [here](http://www.123formbuilder.com/form-5638256/form)
+
+---
 # Feedback
 
 **Maritime go crazy with the horn again?** Tell us, we won't bite.
