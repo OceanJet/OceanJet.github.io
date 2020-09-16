@@ -2,7 +2,7 @@
 function SendForm() {
     require_once ('config.php');
     if ($alert_level == 1) {
-        $msg = array("content" => "@here");
+        $msg = array("content" => "<@&753240907863687218>");
     } elseif ($alert_level == 2) {
         $msg = array("content" => "@everyone");
     } else {
